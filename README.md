@@ -11,7 +11,7 @@ Passionate about creating responsive, user-friendly websites.
 [Visit My Website](https://heather-cooper.com)
 
 ## 📫 Contact
-Email: your.email@example.com
+Email: webtech.hc@gmail.com
 
 <!--
 **webtech-HC/webtech-HC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
