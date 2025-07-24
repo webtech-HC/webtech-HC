@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Heather Cooper 👋
+Front-End Developer | Web Designer | Knoxville, TN  
+Passionate about creating responsive, user-friendly websites.  
+
+## 🚀 Skills
+- HTML5 | CSS3 | JavaScript (ES6+)
+- WordPress Development
+- Responsive & UX Design  
+
+## 🌐 Portfolio
+[Visit My Website](https://heather-cooper.com)
+
+## 📫 Contact
+Email: your.email@example.com
 
 <!--
 **webtech-HC/webtech-HC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
