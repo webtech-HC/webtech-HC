@@ -1,4 +1,4 @@
-## Hi, I'm Heather Cooper 👋
+## Hi, I'm Heather! 👋
 Front-End Developer | Web Designer | Knoxville, TN  
 Passionate about creating responsive, user-friendly websites.  
 
